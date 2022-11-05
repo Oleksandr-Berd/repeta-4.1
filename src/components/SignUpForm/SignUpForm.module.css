@@ -1,0 +1,12 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  /* padding: 15px; */
+  justify-self: center;
+  /* align-items: center; */
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+}
