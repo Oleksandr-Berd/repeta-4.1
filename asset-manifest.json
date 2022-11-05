@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/repeta-4.1/static/css/main.7acaea2f.css",
-    "main.js": "/repeta-4.1/static/js/main.07d3183d.js",
+    "main.css": "/repeta-4.1/static/css/main.6156f115.css",
+    "main.js": "/repeta-4.1/static/js/main.9c9d3f95.js",
     "index.html": "/repeta-4.1/index.html",
-    "main.7acaea2f.css.map": "/repeta-4.1/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/repeta-4.1/static/js/main.07d3183d.js.map"
+    "main.6156f115.css.map": "/repeta-4.1/static/css/main.6156f115.css.map",
+    "main.9c9d3f95.js.map": "/repeta-4.1/static/js/main.9c9d3f95.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.6156f115.css",
+    "static/js/main.9c9d3f95.js"
   ]
 }
